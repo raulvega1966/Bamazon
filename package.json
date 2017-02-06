@@ -1,0 +1,20 @@
+{
+  "name": "hw12",
+  "version": "1.0.0",
+  "description": "bamazon homework",
+  "main": "bcustomer.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.0.1",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "NPM Desmo User <raul.vega7866@gmail.com>",
+  "license": "ISC"
+}
